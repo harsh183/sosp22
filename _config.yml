@@ -1,6 +1,6 @@
-title : Elementary - Jekyll Blog Theme
-name: 'Elementary Jekyll Theme'
-description: 'Simple, light weight, responsive jekyll theme for hackers'
+title : SOSP22
+name: 'Summer of Side Projects 2022'
+description: '4 weeks of fun python workshops and guided side projects'
 
 markdown: kramdown
 highlighter: rouge
@@ -17,11 +17,11 @@ featured_posts:
 
 collections:
   news:
-    title: News
+    title: Info, Tutorials, and Advice
     default_open: false
     output: true
   posts:
-    title: Essays
+    title: Workshops
     default_open: true
     output: true
 
@@ -39,3 +39,4 @@ defaults:
 
 plugins:
   - jekyll-sitemap
+  - jekyll-toc
