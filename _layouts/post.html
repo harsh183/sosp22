@@ -9,7 +9,7 @@ layout: default
 <header>
   <h1>{{ page.title }}</h1>
   <header class="title-tags">
-    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%-d %B, %Y. It was a %A.' }}</time>
+    <time datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: '%A %-d %B' }}</time>
     <div class="tags-container">
       Posted under <span>
           {% for tag in page.tags %}
