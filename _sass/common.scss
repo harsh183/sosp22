@@ -1,6 +1,7 @@
 * {
   margin: 0;
   padding: 0;
+  background-color: #f0eee9;
 }
 
 html, body {
@@ -81,11 +82,11 @@ code, pre {
 }
 
 a {
-  color: #333;
+  color: #d9794a;
 }
 
 a:hover {
-  background-color: #333;
+  background-color: #784228;
   color: #eee;
 }
 
@@ -126,15 +127,15 @@ a:hover {
 blockquote {
   margin: 0;
   padding: 0.5em;
-  border-left: 5px solid black;
+  border-left: 5px solid #784228;
   font-size: 1.25rem;
   line-height: 1.6em;
-  color: #333;
+  color: #784228;
   font-style: italic;
 }
 
 .title-tags {
-  color: #777;
+  color: #d17ab7;
   font-size: 1.125rem;
 }
 
@@ -149,12 +150,12 @@ blockquote {
 p {
   font-size: 1.25rem;
   line-height: 1.6em;
-  color: #333;
+  color: #2c220f;
   margin: 1.25rem 0;
 }
 
 .tags {
-  background-color: #444;
+  background-color: #d17ab7;
   color: #fff;
   padding: 2px 5px;
   border-radius: 2px;
@@ -228,7 +229,7 @@ figcaption {
 hr.stylish {
   border: 0;
   height: 1px;
-  background-image: linear-gradient(to right, rgba(0, 0, 0, 0.90), rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0));
+  background-image: linear-gradient(to right, #5F2F1B, #9F4F2D, #FCF0B6);
   margin: 5px 0;
 }
 
@@ -237,10 +238,11 @@ hr.stylish {
 }
 
 button {
-  padding: 5px 10px;
+  padding: 10px 10px;
   color: white;
-  background: #272822;
-  border-radius: 5px;
+  background: #784228;
+  border: none;
+  border-radius: 4px;
   font-weight: bold;
   cursor: pointer;
   &:hover {
