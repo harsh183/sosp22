@@ -47,4 +47,8 @@ body.dark  {
   #_progress {
     background: linear-gradient(to right, rgb(204, 204, 204) var(--scroll), transparent 0);
   }
+  .highlight {
+    background-color: #434040;
+    color: var(--color__gray--light)
+  }
 }
