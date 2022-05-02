@@ -5,3 +5,5 @@ group :jekyll_plugins do
 end
 gem 'jekyll-sitemap'
 gem 'jekyll-toc'
+
+gem "webrick", "~> 1.7"
