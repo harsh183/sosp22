@@ -1,6 +1,6 @@
 ---
 layout: index
-title: Meta
+title: Home
 ---
 <style>
 .highlight { 
