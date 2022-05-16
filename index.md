@@ -11,13 +11,16 @@ title: Home
 
 ![SOSP banner image](assets/banner.jpg)
 
+REGISTER: <https://tinyurl.com/sosp2022>
+
 Welcome to Summer of Side Projects! All the times are in Chicago Time. Each week is completely standalone so don't worry if you miss a workshop.
 
 <div class="highlight">🪴 Schedule 🪴</div>
 
 - Live Zoom Workshops: **Saturday, Noon**
-    - Recordings will be posted after
+  - Recordings will be posted after
 - Project Ideas (Form) due: **Tuesday 11:59PM**
-    - Feedback given by **Wednesday 11:59pm**
+  - Feedback given by **Wednesday 11:59pm**
 - Project Submission due: **Friday 11:59pm**
-    - Feedback on previous week returned by: **Tuesday 11:59PM** 
+  - Feedback on previous week returned by: **Tuesday 11:59PM**
+- Professional Development sessions will be Sunday evenings or midweek evenings.
