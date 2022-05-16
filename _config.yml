@@ -6,14 +6,20 @@ markdown: kramdown
 highlighter: rouge
 javascript_enabled: true
 
-featured_posts_title: Unrelated
+featured_posts_title: Links
 featured_posts:
-  - url: '#'
-    title: 'Featured post #1'
-  - url: '#'
-    title: 'Featured post #2'
-  - url: '#'
-    title: 'Featured post #3'
+  - url: '/ideas'
+    title: 'Advice on Ideas'
+  - url: '/workflow'
+    title: 'Advice on Workflow'
+  - url: /productive
+    title: 'Advice on being Productive'
+  - url: 'https://forum.sosp22.com/'
+    title: 'Forum'
+  # - url: 'https://forms.gle/UCkgCZvnzHjQwjQM8'
+  #   title: Idea Form (by Wednesday Midnight)
+  # - url: 'https://forms.gle/SdnQBowR7c8AuYeH8'
+  #   title: Project Submission Form (by Monday Midnight)
 
 collections:
   news:
@@ -30,12 +36,12 @@ defaults:
       type: posts
     values:
       title: Essays
-      permalink: /post/:title
+      permalink: /:title
   - scope:
       type: news
     values:
       title: News
-      permalink: /news/:title
+      permalink: /:title
 
 plugins:
   - jekyll-sitemap
