@@ -16,7 +16,7 @@ Advice about this is hard to give. I think the important thing is experimenting 
 
 With everything, try anything for some time before committing to it. And don't feel any shame if some advice doesn't work, drop it and move on because you will eventually find what works for you.
 
-Here is a list of stuff that _may_ or _may not_ help but worth exploring. There is no one size fits all solution. You'll likely need a unique combo of many strategies that work for you. Many things will be hard at first, but things get better with practice.
+Here is a list of stuff that _may_ or _may not_ help but is worth exploring. There is no one size fits all solution. You'll likely need a unique combo of many strategies that work for you. Many things will be hard at first, but things get better with practice.
 
 ## Time of the Day
 
