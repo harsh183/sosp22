@@ -75,7 +75,7 @@ Follow the instructions [here](https://code.visualstudio.com/docs/setup/setup-ov
 
 VSCode has many more complex use cases, and the internet is an excellent place to find good tutorials. Honestly, I think most of it you can learn as you go from trying things yourself, though.
 
-## Extentions
+## Extensions
 
 VSCode is also nice because of all the extensions it has. Feel free to explore around but here are a few recs from us.
 
