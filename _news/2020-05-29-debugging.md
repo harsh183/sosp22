@@ -26,7 +26,7 @@ toc: true
 
 ## Use the Interactive Window to develop Python Scripts
 
-- On VSCode, go to the side buttons and click on the sixth button (the button with 4 squares). This is the marketplace where you can download extensions to improve your VSCode experience. Download the Extension named Python. This extension let's you use the interactive window to develop Python Scripts. This is a good way to test short scripts to see if they would run. You can use VSCode in the same way that people normally use Jupyter Notebook.
+- On VSCode, go to the side buttons and click on the sixth button (the button with 4 squares). This is the marketplace where you can download extensions to improve your VSCode experience. Download the Extension named Python. This extension lets you use the interactive window to develop Python Scripts. This is a good way to test short scripts to see if they would run. You can use VSCode in the same way that people normally use Jupyter Notebook.
 - You can create cells on a Python file by typing "#%%"
 - Use "Shift + Enter " to run a cell, the output will be shown in the interactive window
 - If you click on the shell itself, you can also choose options such as "Run Cell", "Run Below" and "Debug Cell". In the picture below, the first cell runs and works. The second cell doesn't work because print is spelled incorrectly.
@@ -36,7 +36,7 @@ toc: true
 
 - A great way to go about seeing why your code isn't doing what you want it to do is to test your code. Let's use that in conjunction with the debugger.
 
-- The below code works but doesn't produce the result we want. We have a function named `order` that takes in 3 values. We use the function `main` to test the code. To the test the code, we can either input the code each time we run the python file (or python cell) (see the commented out code) or we can manually write in a test case. I put the test case(s) in `main` function and ran the `main` function.
+- The below code works but doesn't produce the result we want. We have a function named `order` that takes in 3 values. We use the function `main` to test the code. To test the code, we can either input the code each time we run the python file (or python cell) (see the commented out code) or we can manually write in a test case. I put the test case(s) in the `main` function and ran the `main` function.
 
 ```python
 def order(value1,value2,value3):
