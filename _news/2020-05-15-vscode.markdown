@@ -100,4 +100,6 @@ Enter the second number: 20
 The sum is 25!
 ```
 
-Contributors: Harsh, Maaheen
+
+Contributors: Harsh, Maaheen, Nehal
+
