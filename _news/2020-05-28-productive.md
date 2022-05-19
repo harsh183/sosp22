@@ -142,4 +142,4 @@ You got this!
 
 * [How to be a Study Ninja: Study smarter. Focus better. Achieve more.](https://www.goodreads.com/book/show/36121202-how-to-be-a-study-ninja) - I was _extremely_ skeptical about this book (and the entire genre) but this book has a lot of specific, realistic and practical advice that's a box of tools approach to productivitiy. Some approaches might work, some might not - but it's worth experimenting and getting huge gains in results.
 
-Contributors: Harsh 
+Contributors: Harsh, Nehal
