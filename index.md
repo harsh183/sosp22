@@ -11,7 +11,7 @@ title: Home
 
 ![SOSP banner image](assets/banner.jpg)
 
-Welcome to CS 125 Summer of Side Projects! All the times are in Chicago Time. Each week is completely standalone so don't worry if you miss a workshop.
+Welcome to Summer of Side Projects! All the times are in Chicago Time. Each week is completely standalone so don't worry if you miss a workshop.
 
 <div class="highlight">🪴 Schedule 🪴</div>
 
