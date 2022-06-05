@@ -200,6 +200,16 @@ h3.home-page-heading {
   display: inline-block;
 }
 
+// Additions 
+
+.people-name {
+  text-align: center;
+}
+
+.people {
+  padding-bottom: 4em;
+}
+
 .tags-container {
   margin: 10px auto;
 }
@@ -311,12 +321,4 @@ table {
   }
 }
 
-// Additions 
 
-.people-name {
-  text-align: center;
-}
-
-.people {
-  padding-bottom: 4em;
-}
