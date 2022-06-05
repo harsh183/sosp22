@@ -18,10 +18,6 @@ body {
   background-color: #f0eee9;
 }
 
-h3.people-name {
-  text-align: center;
-}
-
 .container {
   flex: 1 0 auto;
 }
@@ -313,4 +309,14 @@ table {
   .nav-item {
     font-size: 0.8rem;
   }
+}
+
+// Additions 
+
+.people-name {
+  text-align: center;
+}
+
+.people-card {
+  padding-bottom: 4em;
 }
