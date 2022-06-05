@@ -13,8 +13,6 @@ title: Home
 
 Welcome to Summer of Side Projects! All the times are in Chicago Time. Each week is completely standalone so don't worry if you miss a workshop.
 
-DISCORD: <https://discord.gg/dK3fXzDsNP>
-
 <div class="highlight">🪴 Schedule 🪴</div>
 
 - Live Zoom Workshops: **Saturday, Noon**
