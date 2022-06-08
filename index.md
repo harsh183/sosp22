@@ -17,7 +17,7 @@ Welcome to Summer of Side Projects! All the times are in Chicago Time. Each week
 
 - Live Zoom Workshops: **Saturday, Noon**
   - Recordings will be posted after
-- Project Ideas <a href = "https://docs.google.com/forms/d/e/1FAIpQLSdUIAry6XOclhcnFsN3ChcFL6guEWCascS0TF6lo27Rw-jczw/viewform">(Form) </a>due: **Monday 11:59PM**
+- Project Ideas <a href = "https://docs.google.com/forms/d/e/1FAIpQLSdUIAry6XOclhcnFsN3ChcFL6guEWCascS0TF6lo27Rw-jczw/viewform">(Form)</a> due: **Monday 11:59PM**
   - Feedback given by **Wednesday 11:59pm**
 - Project Submission due: **Friday 11:59pm**
   - Feedback on previous week returned by: **Tuesday 11:59PM**
