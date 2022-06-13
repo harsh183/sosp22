@@ -17,9 +17,9 @@ featured_posts:
   - url: 'https://forum.sosp22.com/'
     title: 'Forum'
   - url: 'https://forms.gle/HAjtAsYq4D3jne9a9'
-    title: Idea Form (by Wednesday Midnight)
+    title: Idea Form (by Monday Midnight)
   - url: 'https://forms.gle/9V82u35VE6R5CQem7'
-    title: Project Submission Form (by Monday Midnight)
+    title: Project Submission Form (by Friday Midnight)
 
 collections:
   news:
