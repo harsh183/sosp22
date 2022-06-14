@@ -19,6 +19,6 @@ Welcome to Summer of Side Projects! All the times are in Chicago Time. Each week
   - Recordings will be posted after
 - Project Ideas <a href = "https://forms.gle/4ePKapdZFMnYaxae7">(Form)</a> due: **Monday 11:59PM**
   - Feedback given by **Wednesday 11:59pm**
-- Project Submission <a href = "https://forms.gle/V8wPZ2nR5bEdEN876">(Form)</a> due: **Friday 11:59pm**
+- Project Submission <a href = "https://forms.gle/hWq4m5gsZUF5AMUE7">(Form)</a> due: **Friday 11:59pm**
   - Feedback on previous week returned by: **Tuesday 11:59PM**
 - Professional Development sessions will be Sunday evenings or midweek evenings.
