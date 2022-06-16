@@ -24,7 +24,7 @@ Comic: [JOHN GREEN: Make gifts for people](http://www.zenpencils.com/comic/119-j
 
 ## Slides
 
-The slides presented can be found on [Google Slides - posted after workshop](). UIUC login required. Below we'll share a few links and pointers.
+The slides presented can be found on [Google Slides](https://docs.google.com/presentation/d/15w7wqr6KY0jXBGP142403U4ma79mViFSh1v6NCaSr1k/edit?usp=sharing). Below we'll share a few links and pointers.
 
 ## Some Guidelines
 
@@ -84,7 +84,7 @@ LAST RESORT: "Student at University of Illinois".
 
 * Mention your name, projects, hyperlinks to socials, and your resume.
 
-* [Helpful examples](https://dev.to/jatinrao/20-developer-portfolios-for-inspiration-2k06).
+* [Helpful examples](https://www.mockplus.com/blog/post/personal-website-design-examples).
 
 ## Github
 
