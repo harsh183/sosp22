@@ -20,5 +20,6 @@ Welcome to Summer of Side Projects! All the times are in Chicago Time. Each week
 - Project Ideas <a href = "https://forms.gle/zT5aPyuoUscx6ix39">(Form)</a> due: **Monday 11:59PM**
   - Feedback given by **Wednesday 11:59pm**
 - Project Submission <a href = "https://forms.gle/3wtS8JA1BeoXMvE19">(Form)</a> due: **Friday 11:59pm**
+  - If you submit a project, you will receive SOSP branded merch!
   - Feedback on previous week returned by: **Tuesday 11:59PM**
 - Professional Development sessions will be Sunday evenings or midweek evenings.
