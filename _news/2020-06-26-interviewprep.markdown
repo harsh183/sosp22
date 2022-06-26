@@ -12,9 +12,13 @@ toc: true
 
 Hosted by: Harsh
 
-## (Session Recording)[https://youtu.be/6WablPFJ3_Q -]
+## [Session Recording](https://youtu.be/6WablPFJ3_Q -)
 
-## Slides
+## [Slide Deck](https://docs.google.com/presentation/d/1Sx2w2n37s12Zfg-zgYnHJaoSTP3_KTljnEM6fBlF1Bg/edit?usp=sharing)
 
+## Interview Guide
+Below, is a more detailed (public beta) guide that the session was adapted on. Following this, tech interview handbook and Edbert Chan will get you at a really good place for cs industry interviews. 
+
+https://tinyurl.com/cs-interview-prep
 
 Contributors: Harsh, Drshika
