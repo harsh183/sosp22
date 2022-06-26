@@ -19,6 +19,6 @@ Hosted by: Harsh
 ## Interview Guide
 Below, is a more detailed (public beta) guide that the session was adapted on. Following this, tech interview handbook and Edbert Chan will get you at a really good place for cs industry interviews. 
 
-[https://tinyurl.com/cs-interview-prep]
+[https://tinyurl.com/cs-interview-prep](https://tinyurl.com/cs-interview-prep)
 
 Contributors: Harsh, Drshika
