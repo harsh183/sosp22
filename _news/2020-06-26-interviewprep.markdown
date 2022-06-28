@@ -12,7 +12,7 @@ toc: true
 
 Hosted by: Harsh
 
-## [Session Recording]() - To be updated soon!
+## [Session Recording](https://youtu.be/3ofj_BmRIqQ)
 
 ## [Slide Deck](https://docs.google.com/presentation/d/1Sx2w2n37s12Zfg-zgYnHJaoSTP3_KTljnEM6fBlF1Bg/edit?usp=sharing)
 
