@@ -17,9 +17,10 @@ Welcome to Summer of Side Projects! All the times are in Chicago Time. Each week
 
 - Live Zoom Workshops: **Saturday, Noon**
   - Recordings will be posted after
-- Project Ideas <a href = "https://forms.gle/2oeBUJWe1eBNwB6u7">(Form)</a> due: **Monday 11:59PM**
+- Project Ideas </a> due: **Monday 11:59PM**
   - Feedback given by **Wednesday 11:59pm**
-- Project Submission <a href = "https://forms.gle/MRq5avHaWS7S47vS8">(Form)</a> due: **Friday 11:59pm**
+- Project Submission </a> due: **Friday 11:59pm**
   - If you submit a project, you will receive SOSP branded merch!
-  - Feedback on previous week returned by: **Tuesday 11:59PM**
+  - Week 3 (Form) - extended to July 16th 
+  - Week 4 (Form) - extended to July 23rd
 - Professional Development sessions will be Sunday evenings or midweek evenings.
